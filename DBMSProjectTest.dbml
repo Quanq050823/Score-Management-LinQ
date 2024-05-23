@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DBMSProjectTest" Class="DBMSProjectTestDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=HASHITORU\BLE;Initial Catalog=DBMSProjectTest;Integrated Security=True" SettingsObjectName="PrjTest.Properties.Settings" SettingsPropertyName="DBMSProjectTestConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Course" Member="Courses">
+    <Type Name="Course">
+      <Column Name="Course_ID" Type="System.String" DbType="VarChar(2) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Sessionss_ID" Type="System.String" DbType="VarChar(40) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Teacher_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Scholastic" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="Course_STUDY" Member="STUDies" ThisKey="Course_ID,Sessionss_ID,Scholastic,Semester" OtherKey="Course_ID,Sessionss_ID,Scholastic,Semester" Type="STUDY" />
+      <Association Name="Sessionss_Course" Member="Sessionss" ThisKey="Sessionss_ID,Semester,Scholastic" OtherKey="Sessionss_ID,Semester,Scholastic" Type="Sessionss" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Teacher_Course" Member="Teacher" ThisKey="Teacher_ID" OtherKey="Teacher_ID" Type="Teacher" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ENROLL" Member="ENROLLs">
+    <Type Name="ENROLL">
+      <Column Name="Sessionss_ID" Type="System.String" DbType="VarChar(40) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Student_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Scholastic" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="Sessionss_ENROLL" Member="Sessionss" ThisKey="Sessionss_ID,Semester,Scholastic" OtherKey="Sessionss_ID,Semester,Scholastic" Type="Sessionss" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Student_ENROLL" Member="Student" ThisKey="Student_ID" OtherKey="Student_ID" Type="Student" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SAccount" Member="SAccounts">
+    <Type Name="SAccount">
+      <Column Name="Username" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Association Name="Student_SAccount" Member="Student" ThisKey="Username" OtherKey="Student_ID" Type="Student" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Score" Member="Scores">
+    <Type Name="Score">
+      <Column Name="Student_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Sessionss_ID" Type="System.String" DbType="VarChar(40) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Scholastic" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Process_score" Type="System.Decimal" DbType="Decimal(4,2)" CanBeNull="true" />
+      <Column Name="Final_exam" Type="System.Decimal" DbType="Decimal(4,2)" CanBeNull="true" />
+      <Column Name="Average_score" Type="System.Decimal" DbType="Decimal(4,2)" CanBeNull="true" />
+      <Column Name="Status" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="Sessionss_Score" Member="Sessionss" ThisKey="Sessionss_ID,Semester,Scholastic" OtherKey="Sessionss_ID,Semester,Scholastic" Type="Sessionss" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Student_Score" Member="Student" ThisKey="Student_ID" OtherKey="Student_ID" Type="Student" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sessionss" Member="Sessionsses">
+    <Type Name="Sessionss">
+      <Column Name="Sessionss_ID" Type="System.String" DbType="VarChar(40) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Sessionss_Name" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Scholastic" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Numberofcredits" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Association Name="Sessionss_Course" Member="Courses" ThisKey="Sessionss_ID,Semester,Scholastic" OtherKey="Sessionss_ID,Semester,Scholastic" Type="Course" />
+      <Association Name="Sessionss_ENROLL" Member="ENROLLs" ThisKey="Sessionss_ID,Semester,Scholastic" OtherKey="Sessionss_ID,Semester,Scholastic" Type="ENROLL" />
+      <Association Name="Sessionss_Score" Member="Scores" ThisKey="Sessionss_ID,Semester,Scholastic" OtherKey="Sessionss_ID,Semester,Scholastic" Type="Score" />
+      <Association Name="Sessionss_TEACH" Member="TEACHes" ThisKey="Sessionss_ID,Semester,Scholastic" OtherKey="Sessionss_ID,Semester,Scholastic" Type="TEACH" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Student" Member="Students">
+    <Type Name="Student">
+      <Column Name="Student_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Student_Name" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Dayofbirth" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="PhoneNumber" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Gender" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Student_IDC" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Admission" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Major" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Association Name="Student_ENROLL" Member="ENROLLs" ThisKey="Student_ID" OtherKey="Student_ID" Type="ENROLL" />
+      <Association Name="Student_SAccount" Member="SAccount" ThisKey="Student_ID" OtherKey="Username" Type="SAccount" Cardinality="One" />
+      <Association Name="Student_Score" Member="Scores" ThisKey="Student_ID" OtherKey="Student_ID" Type="Score" />
+      <Association Name="Student_STUDY" Member="STUDies" ThisKey="Student_ID" OtherKey="Student_ID" Type="STUDY" />
+    </Type>
+  </Table>
+  <Table Name="dbo.STUDY" Member="STUDies">
+    <Type Name="STUDY">
+      <Column Name="Course_ID" Type="System.String" DbType="VarChar(2) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Student_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Sessionss_ID" Type="System.String" DbType="VarChar(40) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Scholastic" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="Course_STUDY" Member="Course" ThisKey="Course_ID,Sessionss_ID,Scholastic,Semester" OtherKey="Course_ID,Sessionss_ID,Scholastic,Semester" Type="Course" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Student_STUDY" Member="Student" ThisKey="Student_ID" OtherKey="Student_ID" Type="Student" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TAccount" Member="TAccounts">
+    <Type Name="TAccount">
+      <Column Name="Username" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Association Name="Teacher_TAccount" Member="Teacher" ThisKey="Username" OtherKey="Teacher_ID" Type="Teacher" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TEACH" Member="TEACHes">
+    <Type Name="TEACH">
+      <Column Name="Sessionss_ID" Type="System.String" DbType="VarChar(40) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Teacher_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Scholastic" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="Sessionss_TEACH" Member="Sessionss" ThisKey="Sessionss_ID,Semester,Scholastic" OtherKey="Sessionss_ID,Semester,Scholastic" Type="Sessionss" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Teacher_TEACH" Member="Teacher" ThisKey="Teacher_ID" OtherKey="Teacher_ID" Type="Teacher" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Teacher" Member="Teachers">
+    <Type Name="Teacher">
+      <Column Name="Teacher_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Teacher_Name" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Dayofbirth" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="PhoneNumber" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Gender" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Teacher_IDC" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Association Name="Teacher_Course" Member="Courses" ThisKey="Teacher_ID" OtherKey="Teacher_ID" Type="Course" />
+      <Association Name="Teacher_TAccount" Member="TAccount" ThisKey="Teacher_ID" OtherKey="Username" Type="TAccount" Cardinality="One" />
+      <Association Name="Teacher_TEACH" Member="TEACHes" ThisKey="Teacher_ID" OtherKey="Teacher_ID" Type="TEACH" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Average_Score" Member="Average_Scores">
+    <Type Name="Average_Score">
+      <Column Name="Student_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Student_Name" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Scholastic" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="TotalCredits" Type="System.Decimal" DbType="Decimal(38,0)" CanBeNull="true" />
+      <Column Name="SumAverage" Type="System.Decimal" DbType="Decimal(4,2)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Course_Sessionss" Member="Course_Sessionsses">
+    <Type Name="Course_Sessionss">
+      <Column Name="Sessionss_Name" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Sessionss_ID" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Course_ID" Type="System.String" DbType="VarChar(2) NOT NULL" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Scholastic" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Teacher_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Teacher_Name" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Numberofcredits" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Student_Accumulated" Member="Student_Accumulateds">
+    <Type Name="Student_Accumulated">
+      <Column Name="Student_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Student_Name" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="AccCredits" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Acc_Score" Type="System.Decimal" DbType="Decimal(4,2)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Teacher_Scores" Member="Teacher_Scores">
+    <Type Name="Teacher_Score">
+      <Column Name="Student_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Student_Name" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Sessionss_ID" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Sessionss_Name" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Course_ID" Type="System.String" DbType="VarChar(2) NOT NULL" CanBeNull="false" />
+      <Column Name="Teacher_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Scholastic" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Numberofcredits" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Process_score" Type="System.Decimal" DbType="Decimal(4,2)" CanBeNull="true" />
+      <Column Name="Final_exam" Type="System.Decimal" DbType="Decimal(4,2)" CanBeNull="true" />
+      <Column Name="Average_score" Type="System.Decimal" DbType="Decimal(4,2)" CanBeNull="true" />
+      <Column Name="Status" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.View_EnrollList" Member="View_EnrollLists">
+    <Type Name="View_EnrollList">
+      <Column Name="Student_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Student_Name" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Sessionss_ID" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Sessionss_Name" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Scholastic" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Numberofcredits" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.View_Scores" Member="View_Scores">
+    <Type Name="View_Score">
+      <Column Name="Student_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Student_Name" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Sessionss_ID" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Sessionss_Name" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Course_ID" Type="System.String" DbType="VarChar(2) NOT NULL" CanBeNull="false" />
+      <Column Name="Scholastic" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Numberofcredits" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Process_score" Type="System.Decimal" DbType="Decimal(4,2)" CanBeNull="true" />
+      <Column Name="Final_exam" Type="System.Decimal" DbType="Decimal(4,2)" CanBeNull="true" />
+      <Column Name="Average_score" Type="System.Decimal" DbType="Decimal(4,2)" CanBeNull="true" />
+      <Column Name="Status" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="LetterScore" Type="System.String" DbType="VarChar(2)" CanBeNull="true" />
+      <Column Name="FourPoitingScore" Type="System.Decimal" DbType="Decimal(2,1)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.View_TeacherList" Member="View_TeacherLists">
+    <Type Name="View_TeacherList">
+      <Column Name="Sessionss_ID" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Sessionss_Name" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Teacher_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Teacher_Name" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Semester" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Scholastic" Type="System.Decimal" DbType="Decimal(4,0) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Function Name="dbo.PROC_Add_Sessions" Method="PROC_Add_Sessions">
+    <Parameter Name="ID" Parameter="iD" Type="System.String" DbType="NVarChar(40)" />
+    <Parameter Name="Name" Parameter="name" Type="System.String" DbType="VarChar(100)" />
+    <Parameter Name="Semester" Parameter="semester" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Scholastic" Parameter="scholastic" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="NumberOfCredits" Parameter="numberOfCredits" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.PROC_Add_Student" Method="PROC_Add_Student">
+    <Parameter Name="Student_ID" Parameter="student_ID" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Student_Name" Parameter="student_Name" Type="System.String" DbType="VarChar(100)" />
+    <Parameter Name="Dayofbirth" Parameter="dayofbirth" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="PhoneNumber" Parameter="phoneNumber" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Gender" Parameter="gender" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="Student_IDC" Parameter="student_IDC" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Admission" Parameter="admission" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Major" Parameter="major" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.PROC_Add_Teacher" Method="PROC_Add_Teacher">
+    <Parameter Name="Teacher_ID" Parameter="teacher_ID" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Teacher_Name" Parameter="teacher_Name" Type="System.String" DbType="VarChar(100)" />
+    <Parameter Name="Dayofbirth" Parameter="dayofbirth" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="PhoneNumber" Parameter="phoneNumber" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Gender" Parameter="gender" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="Teacher_IDC" Parameter="teacher_IDC" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.PROC_Course_Enroll" Method="PROC_Course_Enroll">
+    <Parameter Name="Student_ID" Parameter="student_ID" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Student_Name" Parameter="student_Name" Type="System.String" DbType="VarChar(100)" />
+    <Parameter Name="Session_ID" Parameter="session_ID" Type="System.String" DbType="VarChar(40)" />
+    <Parameter Name="Scholastic" Parameter="scholastic" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Semester" Parameter="semester" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Course_ID" Parameter="course_ID" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.PROC_Delete_Sessions" Method="PROC_Delete_Sessions">
+    <Parameter Name="ID" Parameter="iD" Type="System.String" DbType="NVarChar(40)" />
+    <Parameter Name="Semester" Parameter="semester" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Scholastic" Parameter="scholastic" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.PROC_Delete_Student" Method="PROC_Delete_Student">
+    <Parameter Name="Student_ID" Parameter="student_ID" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.PROC_Delete_Teacher" Method="PROC_Delete_Teacher">
+    <Parameter Name="Teacher_ID" Parameter="teacher_ID" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.PROC_Student_Email_UPDATE" Method="PROC_Student_Email_UPDATE">
+    <Parameter Name="id_in" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.PROC_Student_ID_UPDATE" Method="PROC_Student_ID_UPDATE">
+    <Parameter Name="admission_in" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="major_in" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="id_in" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="id_out" Type="System.Decimal" DbType="Decimal(18,0)" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.PROC_Student_SAccount_UPDATE" Method="PROC_Student_SAccount_UPDATE">
+    <Parameter Name="id_in" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="idc_in" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.PROC_UPDATE_STUDENT" Method="PROC_UPDATE_STUDENT">
+    <Parameter Name="Student_ID" Parameter="student_ID" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Student_Name" Parameter="student_Name" Type="System.String" DbType="VarChar(40)" />
+    <Parameter Name="Student_IDC" Parameter="student_IDC" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Gender" Parameter="gender" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="DayofBirth" Parameter="dayofBirth" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="PhoneNumber" Parameter="phoneNumber" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Admission" Parameter="admission" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Major" Parameter="major" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.PROC_Update_Teacher" Method="PROC_Update_Teacher">
+    <Parameter Name="Teacher_ID" Parameter="teacher_ID" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Teacher_Name" Parameter="teacher_Name" Type="System.String" DbType="VarChar(40)" />
+    <Parameter Name="DayofBirth" Parameter="dayofBirth" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="PhoneNumber" Parameter="phoneNumber" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Gender" Parameter="gender" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="Teacher_IDC" Parameter="teacher_IDC" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.updateScore" Method="updateScore">
+    <Parameter Name="Scholastic" Parameter="scholastic" Type="System.Decimal" DbType="Decimal(4,0)" />
+    <Parameter Name="Semester" Parameter="semester" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Sessionss_ID" Parameter="sessionss_ID" Type="System.String" DbType="VarChar(40)" />
+    <Parameter Name="Student_ID" Parameter="student_ID" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Process_Score" Parameter="process_Score" Type="System.Decimal" DbType="Decimal(4,2)" />
+    <Parameter Name="Final_Exam" Parameter="final_Exam" Type="System.Decimal" DbType="Decimal(4,2)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.FN_Caculate_AccAvgScore" Method="FN_Caculate_AccAvgScore" IsComposable="true">
+    <Parameter Name="ID" Parameter="iD" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Decimal" />
+  </Function>
+  <Function Name="dbo.FN_CheckAcc_Student" Method="FN_CheckAcc_Student" IsComposable="true">
+    <Parameter Name="ID" Parameter="iD" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="pass" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Boolean" />
+  </Function>
+  <Function Name="dbo.FN_CheckAcc_Teacher" Method="FN_CheckAcc_Teacher" IsComposable="true">
+    <Parameter Name="ID" Parameter="iD" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="pass" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Boolean" />
+  </Function>
+  <Function Name="dbo.FN_Count_Credits" Method="FN_Count_Credits" IsComposable="true">
+    <Parameter Name="ID" Parameter="iD" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="Scholastic" Parameter="scholastic" Type="System.Decimal" DbType="Decimal(4,0)" />
+    <Parameter Name="Semester" Parameter="semester" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.FN_Count_TotalCredit" Method="FN_Count_TotalCredit" IsComposable="true">
+    <Parameter Name="ID" Parameter="iD" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.FN_FindStudent" Method="FN_FindStudent" IsComposable="true">
+    <Parameter Name="ID" Parameter="iD" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <ElementType Name="FN_FindStudentResult">
+      <Column Name="Student_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Student_Name" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Dayofbirth" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="PhoneNumber" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Gender" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Student_IDC" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Admission" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Major" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.FN_FindTeacher" Method="FN_FindTeacher" IsComposable="true">
+    <Parameter Name="ID" Parameter="iD" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <ElementType Name="FN_FindTeacherResult">
+      <Column Name="Teacher_ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Teacher_Name" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Dayofbirth" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="PhoneNumber" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Gender" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Teacher_IDC" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

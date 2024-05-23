@@ -1,0 +1,311 @@
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\PrjTest.exe.config
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\PrjTest.exe
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\PrjTest.pdb
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\Guna.UI2.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\EnvDTE.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\stdole.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\StudentScoreMS.csproj.AssemblyReference.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\StudentScoreMS.csproj.SuggestedBindingRedirects.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\StudentScoreMS.csproj.ResolveComReference.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.TeacherForm.fEditScore.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.Admin_form.fSessions.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.Admin_form.fStudentScore.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.Admin_form.fTeachherInfo.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.Admin_form.fStudentInfo.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.fLogin.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.fAdmin1.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.fStudentAccount.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.fTeacherAccount.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.Properties.Resources.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.ReportViewerForm.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.Admin_form.fEditScore.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.StudentForm.fTeacherTeached.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.StudentForm.fStudentEnrolled.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.StudentForm.fTeacherScore.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.StudentForm.fTeacherInformation.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.StudentForm.fStudentScore.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.StudentForm.fStudentInformation.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\StudentScoreMS.csproj.GenerateResource.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\StudentScoreMS.csproj.CoreCompileInputs.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\StudentScoreMS.csproj.CopyComplete
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.exe
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.EF(ADO)\obj\Debug\PrjTest.pdb
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\StudentScoreMS.csproj.AssemblyReference.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\StudentScoreMS.csproj.SuggestedBindingRedirects.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\StudentScoreMS.csproj.ResolveComReference.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.TeacherForm.fEditScore.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.Admin_form.fSessions.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.Admin_form.fStudentScore.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.Admin_form.fTeachherInfo.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.Admin_form.fStudentInfo.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.fLogin.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.fAdmin1.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.fStudentAccount.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.fTeacherAccount.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.Properties.Resources.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.ReportViewerForm.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.StudentForm.fTeacherTeached.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.StudentForm.fStudentEnrolled.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.StudentForm.fTeacherScore.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.StudentForm.fTeacherInformation.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.StudentForm.fStudentScore.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.StudentForm.fStudentInformation.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\StudentScoreMS.csproj.GenerateResource.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\StudentScoreMS.csproj.CoreCompileInputs.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.exe
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.pdb
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\PrjTest.exe.config
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\PrjTest.exe
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\PrjTest.pdb
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\Guna.UI2.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\EnvDTE.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\stdole.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\StudentScoreMS.csproj.CopyComplete
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.ADO (linq)\obj\Debug\PrjTest.Admin_form.fEditScoreAdmin.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\PrjTest.exe.config
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\PrjTest.exe
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\PrjTest.pdb
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\Guna.UI2.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\EnvDTE.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\stdole.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\StudentScoreMS.csproj.AssemblyReference.cache
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\StudentScoreMS.csproj.SuggestedBindingRedirects.cache
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\StudentScoreMS.csproj.ResolveComReference.cache
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.TeacherForm.fEditScore.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.Admin_form.fSessions.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.Admin_form.fStudentScore.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.Admin_form.fTeachherInfo.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.Admin_form.fStudentInfo.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.fLogin.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.fAdmin1.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.fStudentAccount.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.fTeacherAccount.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.Properties.Resources.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.ReportViewerForm.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.Admin_form.fEditScoreAdmin.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.StudentForm.fTeacherTeached.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.StudentForm.fStudentEnrolled.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.StudentForm.fTeacherScore.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.StudentForm.fTeacherInformation.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.StudentForm.fStudentScore.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.StudentForm.fStudentInformation.resources
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\StudentScoreMS.csproj.GenerateResource.cache
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\StudentScoreMS.csproj.CoreCompileInputs.cache
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\StudentScoreMS.csproj.CopyComplete
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.exe
+F:\CURRICULUM\Winform\ĐỒ ÁN 2023\PrjTest.linq\obj\Debug\PrjTest.pdb
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\PrjTest.exe.config
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\PrjTest.exe
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\PrjTest.pdb
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\Guna.UI2.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\EnvDTE.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\stdole.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\StudentScoreMS.csproj.AssemblyReference.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\StudentScoreMS.csproj.SuggestedBindingRedirects.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\StudentScoreMS.csproj.ResolveComReference.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.TeacherForm.fEditScore.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.Admin_form.fSessions.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.Admin_form.fStudentScore.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.Admin_form.fTeachherInfo.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.Admin_form.fStudentInfo.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.fLogin.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.fAdmin1.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.fStudentAccount.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.fTeacherAccount.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.Properties.Resources.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.ReportViewerForm.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.Admin_form.fEditScoreAdmin.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.StudentForm.fTeacherTeached.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.StudentForm.fStudentEnrolled.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.StudentForm.fTeacherScore.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.StudentForm.fTeacherInformation.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.StudentForm.fStudentScore.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.StudentForm.fStudentInformation.resources
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\StudentScoreMS.csproj.GenerateResource.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\StudentScoreMS.csproj.CoreCompileInputs.cache
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\StudentScoreMS.csproj.CopyComplete
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.exe
+D:\ĐH\II - HK2\WinPrograming\FINALPRJ\PrjTest.linq\PrjTest.linq\obj\Debug\PrjTest.pdb

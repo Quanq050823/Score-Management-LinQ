@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PrjTest.BL.BLAccount" Collapsed="true">
+    <Position X="5.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\BLAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.BL.BLEnrolled" Collapsed="true">
+    <Position X="5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\BLEnrolled.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.BL.BLScore" Collapsed="true">
+    <Position X="5.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAACAAAAAAAAAAEAAAAAAgCAAAAQ=</HashCode>
+      <FileName>BL\BLScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.BL.BLSessions" Collapsed="true">
+    <Position X="5.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAgAAAQAAAAAAEACAAABAAAAAAA=</HashCode>
+      <FileName>BL\BLSessions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.BL.BLStudent" Collapsed="true">
+    <Position X="6.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAABAAAAEACAAAAAQAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\BLStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.BL.BLTeacher" Collapsed="true">
+    <Position X="7.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAEAAAAAAAgAAQAAAEAAAAAAAAQAAAA=</HashCode>
+      <FileName>BL\BLTeacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.BL.BLTeacherScore" Collapsed="true">
+    <Position X="6" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAAAAAAAAAAAAAAAEAAAgAAACAUAAAAAAgAAAAAA=</HashCode>
+      <FileName>BL\BLTeacherScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataContext" Collapsed="true">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKKICABgQIAmAEnoBJwASAw0QXIFQMYAEQijIhSBAIQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Course" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEwCCKhAgACAAAAYCkAABBBiGIABACAAICAAIABgEA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PrjTest.ENROLL" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAwACLhQAACAAAIYCkAABIBiCIAAAAAEIAAAIAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PrjTest.SAccount" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAwAAABQAAAAEAAQQMEAAIViCAAAAACAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PrjTest.Score" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBQwACLlQACGAAQIYCkAABJBiCIGAAAAEIEggJAgABA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PrjTest.Sessionss" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBBwQCKhRAACAAgAZCkBIFABiCogIBAAAICSBJAACAI=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PrjTest.Student" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jABhGghBCiETAEmIZAELQKBBiKsgCAgAEgEgBAEBCIA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PrjTest.STUDY" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAwCCLhQAACAAAIYIkAABIBiCIABAAAEICAAIBAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PrjTest.TAccount" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEwAAABAAAAAEAAQQMEAAAViGAAAAACAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PrjTest.TEACH" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEwACKhAAACAAAAYCkAABABiGIAAACAAIAAAIAAgEA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PrjTest.Teacher" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBChUggBCCQRAAGARAFAYEARiKEAIACAQAGQARABgMA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PrjTest.Average_Score" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAADAAAACAAAAIAAAAAAAKAAAAAAAAIAAAIgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Course_Sessionss" Collapsed="true">
+    <Position X="12.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgCCAgBAACAAAAJAgAAAAAAAAAAAAAQIACAIAAgAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Student_Accumulated" Collapsed="true">
+    <Position X="12.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAABAAAAAAgAAIAAAAAgACAAAAQAAAAAAgAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Teacher_Score" Collapsed="true">
+    <Position X="14.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQgCCBkBAAGAAQAJAgAAAAACAAAAAAAAIACgIAggBI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.View_EnrollList" Collapsed="true">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAABgBAACAAAAJAgAAAAACAAAAAAAAIACAIAAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.View_Score" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQACCBkBAAGQAQAJAgAgAAACAAAAQAAAIAigIAgABI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.View_TeacherList" Collapsed="true">
+    <Position X="14.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAgBAACAAAAIAgAAAAAAAAAAAAAQIACAIAAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.FN_FindStudentResult" Collapsed="true">
+    <Position X="14.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hABAAABAACARAAGAIAAAQAAACIEACAAAAAAgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.FN_FindTeacherResult" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAAACARAAGAAAAAQAAAAIEAAAAAQAAAAAABgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSet" Collapsed="true">
+    <Position X="6.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCGAAgQAS0MEEEpWVPMASEjQhQljQFkBgWAhgAEDJJA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Program" Collapsed="true">
+    <Position X="2.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.ReportViewerForm" Collapsed="true">
+    <Position X="5.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAACAgECQEQBQgJgGBCghiAAEEATACCgBgAQlCgAA=</HashCode>
+      <FileName>Report\ReportViewerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.fAdmin1" Collapsed="true">
+    <Position X="5.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACkAAUCIGCAAAAICAAAACECBAIACAQQACAQFAIAA=</HashCode>
+      <FileName>UI\fAdmin1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.fLogin" Collapsed="true">
+    <Position X="5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAiFEEQAFCBEABAAgACEACQCKGAAAQICAlQCEgAAAAE=</HashCode>
+      <FileName>UI\fLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.fStudentAccount" Collapsed="true">
+    <Position X="7" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAUCIGCAAAAICAAACCFCBAIACAARQAAQBAAAA=</HashCode>
+      <FileName>UI\fStudentAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.fTeacherAccount" Collapsed="true">
+    <Position X="6" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAUCIGCAAAAICAAACCFCBAIACAARQAAQBAAAA=</HashCode>
+      <FileName>UI\fTeacherAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.CourseTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.ENROLLTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.SAccountTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.ScoreTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.SessionssTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.StudentTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.STUDYTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.TAccountTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.TEACHTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.TeacherTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.Average_ScoreTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.Course_SessionssTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAgACAcAIAAAAAAAACAICAAAEAAAAAAARBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.Student_AccumulatedTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.Teacher_ScoresTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAACAcAIAAAAAAAACAICAAAAAAAAAAARBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.View_EnrollListTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAACAcAIAAAAAAAACAICAAAAAAAAAAARBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.View_ScoresTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEBgACAcAIAAAAAAAACAICAAAGAAAAAAARBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.View_TeacherListTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.FN_FindStudentTableAdapter" Collapsed="true">
+    <Position X="12.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.FN_FindTeacherTableAdapter" Collapsed="true">
+    <Position X="14.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.QueriesTableAdapter" Collapsed="true">
+    <Position X="7.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIACBwAAAEAAiIIBAAyAwQAAAIAMAgEAAjAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.DBMSProjectTestDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="5.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IYADACIAAABAJAUBAAEAMAAiIBACgAQgAAQAgAAABAY=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Hooman.Enrolled_Object" Collapsed="true">
+    <Position X="5.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAIIAAAACAQAAIAAAACCCAAAAggAACAAAAAAAAAA=</HashCode>
+      <FileName>Object\Enrolled_Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Hooman.Score_Object" Collapsed="true">
+    <Position X="5.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEQAABBEEAACAAAAIAAAQAACAAAKhACABAQgAAAgIAA=</HashCode>
+      <FileName>Object\Score_Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Hooman.Student_Object" Collapsed="true">
+    <Position X="5.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAAIAAQCAAAACgYAAAgGAACAAACAAAAAggAAQEIAA=</HashCode>
+      <FileName>Object\Student_Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Hooman.Teacher_Object" Collapsed="true">
+    <Position X="5.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAACAAAYCgAAAIgAAACAAAAAABAAAAAQABgAA=</HashCode>
+      <FileName>Object\Teacher_Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Object.Sessions_Object" Collapsed="true">
+    <Position X="5.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAACAAAAIAAAICCAACAIgAAACAAAAAAAAAA=</HashCode>
+      <FileName>Object\Sessions_Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Object.TeacherCourse_Object" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAIgAAgCIIAAIEAEACAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Object\TeacherCourse_Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Object.TeacherScore_Object" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQECoIkBAgGIIAAJAAAACAAAAAAAACAACAAgAAggAI=</HashCode>
+      <FileName>Object\TeacherScore_Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Properties.Resources" Collapsed="true">
+    <Position X="5.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEDCAQAAAACQgAAgIgABkaAAAwgCAgAASAAAwiACiIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Properties.Settings" Collapsed="true">
+    <Position X="5.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAYAAAAAAAIQAAAAABAAAAAAAAAAACAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Admin_form.fEditScoreAdmin" Collapsed="true">
+    <Position X="4.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ATEAQAoANCAUAAAQAAmBACACACAAEhAAAEAAAQIBAkQ=</HashCode>
+      <FileName>UI\Admin form\fEditScoreAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Admin_form.fSessions" Collapsed="true">
+    <Position X="6.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAgQgAISAEEBAAAQiAAAAGAAAQgBAAAQACgAoCAQc=</HashCode>
+      <FileName>UI\Admin form\fSessions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Admin_form.fStudentInfo" Collapsed="true">
+    <Position X="5.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAghAgBISAGEBGAAAiAAQAmAAAQkBEAgQACAAICAQY=</HashCode>
+      <FileName>UI\Admin form\fStudentInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Admin_form.fStudentScore" Collapsed="true">
+    <Position X="5.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAgEgAECQUkBACIQiAACCCEAIAIgAACQQAIAggAkE=</HashCode>
+      <FileName>UI\Admin form\fStudentScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.Admin_form.fTeachherInfo" Collapsed="true">
+    <Position X="6.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAggAgAISAGEBCAAAiAAAAmAAAQkBAgAQACAAIKAQY=</HashCode>
+      <FileName>UI\Admin form\fTeacherInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.StudentForm.fStudentEnrolled" Collapsed="true">
+    <Position X="5.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAAQgBACQEkEoAAQiIAEACAQACAAAAAA4BIQgAAEE=</HashCode>
+      <FileName>UI\StudentForm\fStudentEnrolled.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.StudentForm.fStudentInformation" Collapsed="true">
+    <Position X="5.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAkgAAJCACgMCQAACBIAACAiAwEACAgYIAiQACCMQ=</HashCode>
+      <FileName>UI\StudentForm\fStudentInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.StudentForm.fStudentScore" Collapsed="true">
+    <Position X="7.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABiAAQgAACB0kEAiAQiAAAACIQACAAAAAA4AIQgEgEE=</HashCode>
+      <FileName>UI\StudentForm\fStudentScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.StudentForm.fTeacherInformation" Collapsed="true">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAggAAJCACgICQAACBIAACAiAQECCAAYIAhQABAEQ=</HashCode>
+      <FileName>UI\TeacherForm\fTeacherInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.StudentForm.fTeacherScore" Collapsed="true">
+    <Position X="6.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABgAkUgAACQEkBICKRiAkCACCQMAAAAAAQ4AJQwgAEk=</HashCode>
+      <FileName>UI\TeacherForm\fTeacherScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.StudentForm.fTeacherTeached" Collapsed="true">
+    <Position X="4.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABgAAQgAhCQEkAgAgQiIAACCAAIAAAAAAA4AIQgBAUE=</HashCode>
+      <FileName>UI\TeacherForm\fTeacherTeached.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjTest.TeacherForm.fEditScore" Collapsed="true">
+    <Position X="4.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ATEAQAoANCAUoAAQAAiBACACACAAEhAAAEIABQIBAEQ=</HashCode>
+      <FileName>UI\TeacherForm\fEditScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
